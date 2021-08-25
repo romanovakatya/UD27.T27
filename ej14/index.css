@@ -1,0 +1,31 @@
+table {
+    margin: auto;    
+    width: 80%;
+    text-align: center;
+    border-collapse: separate;
+    border-top: solid 4px lightgray;
+    border-left: solid 4px lightgray;
+    border-bottom: solid 4px black;
+    border-right: solid 4px black;
+    background-color: rgb(248, 239, 155);
+}
+
+th, td {
+    padding: 0.5em;
+    border-top: solid 1px black ;
+    border-left: solid 1px black;
+    border-bottom: solid 1px lightgray;
+    border-right: solid 1px lightgray;
+}
+
+th {
+    background-color: white;
+}
+
+body {
+    margin: 35% 0;
+    background: url("/ej14/img/ping.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
