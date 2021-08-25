@@ -23,3 +23,7 @@ td {
 .otrocolor {
     background-color: paleturquoise;
 }
+
+#colortd td {
+    background-color: paleturquoise;
+}
