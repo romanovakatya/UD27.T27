@@ -1,0 +1,25 @@
+table {
+    margin: auto;
+    border-collapse: collapse;
+    border: solid 1px rgb(87, 181, 243);
+    box-shadow: 3px 3px 2px 3px slategrey, -4px -4px 2px 2px mistyrose;
+}
+
+th, td {
+    padding: 0.5em;
+    border: solid 2px rgb(87, 181, 243);
+    box-shadow: inset 1px 1px 2px 1px slategrey, inset -1px -1px 2px 1px mistyrose;
+}
+
+th {
+    background-color: navy;
+    color: aliceblue;
+}
+
+td {
+    background-color: seashell;
+}
+
+#otrocolor td{
+    background-color: paleturquoise;
+}
