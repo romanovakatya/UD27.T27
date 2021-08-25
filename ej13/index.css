@@ -1,0 +1,44 @@
+table {
+    margin: auto;
+    width: 1000px;
+    text-align: center;
+    border-collapse: separate;
+    border-top: solid 3px lightgray;
+    border-left: solid 3px lightgray;
+    border-bottom: solid 3px black;
+    border-right: solid 3px black;
+    font-weight: bold;
+}
+
+td {
+    padding: 0.5em;
+    border-top: solid 1px black ;
+    border-left: solid 1px black;
+    border-bottom: solid 1px lightgray;
+    border-right: solid 1px lightgray;
+}
+
+td {
+    background-color: seashell;
+}
+
+#tdgreen {
+    background-color: rgb(131, 247, 95);
+}
+
+#celda2 {
+    background-color: aquamarine;
+    text-align: start;
+}
+
+#celda6 {
+    background-color: violet;
+    text-align: end;
+}
+
+.rojo {
+    color: firebrick;
+    border-top: solid 1px firebrick ;
+    border-left: solid 1px firebrick;
+
+}
