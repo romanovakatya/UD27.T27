@@ -1,0 +1,34 @@
+  
+table {
+    margin: auto;
+    border-collapse: separate;
+    border-top: solid 4px lightgray;
+    border-left: solid 4px lightgray;
+    border-bottom: solid 4px black;
+    border-right: solid 4px black;
+    font-weight: bolder;
+    color: brown;
+    text-align: center;
+    background: url(/ej16/img/fondo.jpg) no-repeat ;
+    background-size: cover;
+}
+
+th, td {
+    padding: 0.2em 0.7em;
+    border-top: solid 0.15rem black ;
+    border-left: solid 0.15rem black;
+    border-bottom: solid 0.15rem lightgray;
+    border-right: solid 0.15rem lightgray;
+}
+
+th {
+    background-color: bisque;  
+}
+
+#th1 {
+    background-color: rgb(119, 180, 119);
+}
+
+.th2 {
+    background-color: rgb(255, 253, 126);
+}
