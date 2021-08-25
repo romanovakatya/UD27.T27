@@ -1,0 +1,12 @@
+table {
+    border: 1px solid;
+    border-collapse: separate;
+}
+
+th, td {
+    border: 1px solid;
+}
+
+.fontbold {
+    font-weight: bolder;
+}
